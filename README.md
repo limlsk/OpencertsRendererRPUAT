@@ -3,7 +3,6 @@
 The project allow you to run your own document renderer compatible with the OpenAttestation standards. To customise the look and feel of your document, you may style a template to render it, host a copy of this renderer and then point your document to render with the hosted renderer. 
 
 # Running the renderer
-
 `npm start`
 
 Runs the app in the development mode.<br>
